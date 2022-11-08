@@ -1,4 +1,4 @@
-# ⚽ Blob sobre o jogo histórico entre Flamengo e Santos.
+# ⚽ Blog sobre o jogo histórico entre Flamengo e Santos.
 
 
 # Tecnologias
